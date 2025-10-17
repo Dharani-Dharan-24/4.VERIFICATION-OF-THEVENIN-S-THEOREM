@@ -50,6 +50,18 @@ Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
+**CALCULATION:**
+
+<img width="489" height="653" alt="image" src="https://github.com/user-attachments/assets/b50d430f-9255-45ff-bfcf-09ee3846f549" />
+
+<img width="489" height="652" alt="image" src="https://github.com/user-attachments/assets/ecaf62af-fb2e-4285-ba4b-a2b84d17fe5e" />
+
+<img width="496" height="662" alt="image" src="https://github.com/user-attachments/assets/ba7f921c-4880-4af6-9e2a-aca26fb4842e" />
+
+**MARKS SPLIT-UP:**
+
+<img width="645" height="484" alt="image" src="https://github.com/user-attachments/assets/a6ebea94-91ff-49db-a90e-b2766862ef51" />
+
 
 **PROCEDURE:**
 
